@@ -20,7 +20,7 @@ export const BackgroundAnimation = () => {
           scale: 1.0,
           scaleMobile: 1.0,
           color: 0xFC1DAE,
-          backgroundColor: 0x1E1E1E,
+          backgroundColor: 0x0f0f11,
           points: 5.0,
           maxDistance: 25.0,
           spacing: 20.0,
