@@ -30,12 +30,7 @@
 
 .hero__title, .hero__subtitle {
   text-shadow: 0 0 5px #0000004d;
-  color: #1c1e21;
-}
-
-[data-theme="dark"] .hero__title, [data-theme="dark"] .hero__subtitle {
-  text-shadow: 0 0 5px #ffffff4d;
-  color: #e3e3e3;
+  color: #ffffff;
 }
 
 .header-github-link:hover {
